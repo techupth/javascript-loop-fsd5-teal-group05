@@ -5,7 +5,7 @@ let newRestaurants = [];
 let i = 0;
 let text = "Restaurants Name: ";
 while (restaurants[i]) {
-    newRestaurants.push(text += restaurants[i]);
+    newRestaurants.push(text + restaurants[i]);
     i++;
 }
 

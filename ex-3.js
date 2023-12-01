@@ -10,9 +10,4 @@ for (let i = 0; i < numbers.length; i++) {
     }
 }
 
-// for (let i of numbers) {
-//     const newNumber = i < numbers.length;
-//     minNumber.push(newNumber);
-// }
-
 console.log(minNumber);
